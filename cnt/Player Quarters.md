@@ -1,4 +1,0 @@
-- Can house 2 [[Playable Characters]], the remaining members are represented as plushies/memorabilia on shelves
-- Features a gachapon shelf for [[Character Acquisition]]
-- Other furniture includes bed, desk & chair, and additional customiseable decorations
-- Main furniture pieces have static positions but can be customised; wall decorations can be placed manually.

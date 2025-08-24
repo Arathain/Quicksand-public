@@ -1,3 +1,0 @@
-#mechanic 
-
-Upon a ranged attack failing to meet the [[Bounce]] threshold, it ricochets - dealing no damage to the enemy, but decreasing the chance for the next attack to ricochet by 0.95x - this effect is multiplicative and can stack infinitely. When an attack ricochets, it is reflected randomly upon the ally closest to its 'reflected' course of action, dealing 50% reduced damage if connecting - not all projectile attacks can ricochet, however (e.g. ultimate attacks, or ones the player has less control over). Upon a successful, non-ricochet hit, whether that is because the threshold is met, or because the attack randomly hit, [[Toughness]] damage calculation still applies.

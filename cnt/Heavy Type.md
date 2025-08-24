@@ -1,1 +1,0 @@
-Tactile, frontline units who excel at facing the enemy head-on and pinning them in place. They embody the archetype of the "unbreakable wall", and let the player stand their ground to any attack thrown against them.
