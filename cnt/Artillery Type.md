@@ -1,0 +1,1 @@
+A classification of characters who do not engage with the enemy directly - instead of direct positioning and tactile blocks, they derive their difficulty from other sources. The category can include the obvious ranged/shooter archetypes, but also includes completely separate playstyles; per-track rhythm gameplay, a resource-management approach, card strategy, etc.
