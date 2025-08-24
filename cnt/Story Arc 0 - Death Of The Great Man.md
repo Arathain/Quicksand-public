@@ -1,1 +1,0 @@
-Initial story arc, setting up the vague geopolitics of the world, while focusing on the antagonist, [[Fontwell]].

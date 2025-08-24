@@ -1,3 +1,0 @@
-#mechanic
-
-Weapon Cores act as "stat sticks" acquired from enemies - they define what [[Damage]] types are inflicted by the characters' attacks, the damage values themselves, and additional/custom buffs - this serves as the major driver of player DPS as the game progresses. [[Damage]] types inflicted may vary between attacks, e.g. with higher-commitment, 'heavy' attacks being granted an extra damage type.

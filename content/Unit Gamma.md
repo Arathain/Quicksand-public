@@ -1,1 +1,0 @@
-Engaging but not very difficult; girlypop robot.

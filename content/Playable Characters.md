@@ -23,7 +23,6 @@ A character's kit is defined by [[Weapon Cores]], [[Data Chips]], and Surplus Un
 - [[Unit Beta]]
 - [[TraTaN]]
 - [[(Alias) Churchboy]]
-- [[Fontwell]]
 - [[Gate Four]] (future character)
 
 
