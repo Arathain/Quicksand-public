@@ -1,0 +1,8 @@
+A co-op session begins with selecting a character, as well as an off-field backup; the backup can be deployed onto the field if your first pick dies in battle, but it comes at a cost of losing their infra buffs that they grant you when off-field. There are no limits to the Type of characters chosen - the maximum amount of players in a session is **4**.
+
+A session is referred to as a "Deployment". A Deployment can be a **Hunt** (single-target, timed), a **Strike** (several specified targets, timed), or a **Raid** (unlimited time, but limited reinforcements and gradually increasing difficulty). Players "Deploy" [[Playable Characters]] against [[Beast]]s, which are simply large-scale/powerful enemies available in the region. Please see [[Enemy Design]] for more information on how a single Enemy behaves and fights.
+
+As the session progresses, damaged OBs (Obstructions in short) will drop various [[Relic]]s and [[Materials]]. Relics are items players will be able to carry throughout the run, providing targeted, stacking buffs. Materials, meanwhile, are used as a means of metaprogression - they are used as specific ingredients in the creation of [[Weapon Cores]], as well as being useable as fodder for creating random [[Data Chips]]. In this way, outside of character-specific abilities, the player's source of progression within a run are various [[Relic]]s they find scattered around the map and dropped by Beasts.
+
+When it comes to long-term metaprogression, it is important to not allow players too much fatigue; difficult challenges should be surmountable, and RNG grinds shouldn't restrict players' combat options when acquiring materials. 
+

@@ -1,0 +1,3 @@
+#story
+
+A micro-organism capable of storing and "processing" data, able to propagate across its population and begin forming structural connections; communicating by quantum entanglement, they are able to react and operate at incredibly fast speeds. As an organism, they prey on more intelligent animals by overwhelming them with sheer force and dissolving them alive, "absorbing" their behavioural patterns in the process; this biological mechanism was the key driving factor behind the development of **Mirrored-Actor** technology, and continues to be used for cheaper means of producing them.

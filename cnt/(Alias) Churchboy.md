@@ -1,0 +1,2 @@
+
+A [[Tone]]-based MA unit, capable of transforming drastically by building up excess energy to feed the Tone colony. Outwardly very sexualised, feminine appearance chosen for initial marketing purposes. Mind based off of body of hardened special ops. soldier in his 30's, incredibly insecure about the unit's appearance. Semi-Stable.
