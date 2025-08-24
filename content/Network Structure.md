@@ -1,0 +1,6 @@
+- **Authority**
+	- Larger database & process network, responsible for **asynchronous** server actions - stores all **persistent** player data, and acts as the ultimate authority during gameplay arbitration. As asynchronicity suggests, it is not meant to be used for in-game play other than validating data-related player actions.
+- **Server**
+	- Process responsible for providing a 'server' during **synchronous** online play. Freely interchangeable, with potential for player-run/P2P server machines once game is shelved, or if funds don't meet (downside of not really being able to have anti-cheat available).
+- **Client**
+	- Game client, running on the players' devices.

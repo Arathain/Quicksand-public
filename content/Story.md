@@ -4,3 +4,4 @@ The game's story is told on two fronts - the geopolitical, "global" side, and th
 
 [[Story Arc 0 - Death Of The Great Man]]
 [[Story Arc 1  - Revolutions]]
+[[Story Arc 2 - Searing Lorelei]]
